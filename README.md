@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Patra
-I am currently studing data analysis 
+I am currently studying data analysis 
 
 <!--
 **Patra-Rukky/Patra-Rukky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
